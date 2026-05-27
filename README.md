@@ -17,7 +17,7 @@ Głównym celem projektu nie było wyłącznie obliczenie wyceny, ale również 
 | Plik | Opis |
 |---|---|
 | `Dino_Unlevered_DCF_PL.xlsx` | Polska wersja modelu wyceny w Excelu |
-| `screenshots/` | Zrzuty podsumowania, założeń, wyników modelu oraz analizy wrażliwości |
+| `screenshots/` | Zrzuty ekranu podsumowania, założeń, wyników modelu oraz analizy wrażliwości |
 
 ---
 
